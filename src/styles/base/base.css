@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.toast-invalid{
+    background-color: rgb(181, 25, 25) !important;
+    border-radius: 5px !important;
+    color: bisque !important;
+}
+.toast-valid{
+    background-color: rgb(11, 204, 47) !important;
+    border-radius: 5px !important;
+    color: bisque !important;
+}
+.disable{
+    pointer-events: none ;
+    background-color: gray !important;
+    box-shadow: none !important;
+    opacity: 0.9 !important;
+}

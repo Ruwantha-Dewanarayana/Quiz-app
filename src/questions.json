@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Where is Sri Lanka located?",
+        "optionA": "Africa",
+        "optionB": "East-West",
+        "optionC": "Asia",
+        "optionD": "Europe",
+        "answer": "Asia"
+    },
+
+    {
+        "question": "What is the administrative capital of Sri Lanka?",
+        "optionA": "Kuala Lumpur",
+        "optionB": "Yakarta",
+        "optionC": "Sri Jayawardenepura Kotte",
+        "optionD": "Kandy",
+        "answer": "Sri Jayawardenepura Kotte"
+    },
+
+    {
+        "question": "What is the largest city in Sri Lanka?",
+        "optionA": "Colombo",
+        "optionB": "Kandy",
+        "optionC": "Galle",
+        "optionD": "Alawwa",
+        "answer": "Colombo"
+    },
+
+    {
+        "question": "What are the official languages in Sri Lanka?",
+        "optionA": "Sinhala and English",
+        "optionB": "Sinhala and Tamil",
+        "optionC": "Tamil and Hindi",
+        "optionD": "Tamil and English",
+        "answer": "Sinhala and Tamil"
+    },
+
+    {
+        "question": "What is the religion that is most practiced in Sri Lanka?",
+        "optionA": "Hindhu",
+        "optionB": "Buddhism",
+        "optionC": "Christianity",
+        "optionD": "Islam",
+        "answer": "Buddhism"
+    },
+
+    {
+        "question": "Who is the current president of Sri Lanka?",
+        "optionA": "Maithripala Sirisena",
+        "optionB": "Karu Jayasuriya",
+        "optionC": "Mahinda Rajapaksa",
+        "optionD": "Ranil Wickckramasinghe",
+        "answer": "Ranil Wickckramasinghe"
+    },
+
+    {
+        "question": "How many rivers does Sri Lanka have?",
+        "optionA": "150 rivers",
+        "optionB": "102 rivers",
+        "optionC": "103 rivers",
+        "optionD": "100 rivers",
+        "answer": "103 rivers"
+    },
+
+    {
+        "question": "In how many provinces is Sri Lanka divided?",
+        "optionA": "9 provinces",
+        "optionB": "10 provinces",
+        "optionC": "20 provinces",
+        "optionD": "15 provinces",
+        "answer": "9 provinces"
+    },
+
+    {
+        "question": "In which year did Sri Lanka become a member of the United Nations?",
+        "optionA": "1960",
+        "optionB": "1955",
+        "optionC": "1947",
+        "optionD": "1984",
+        "answer": "1955"
+    },
+
+    {
+        "question": "Which of these dishes are part of Sri Lankan culture?",
+        "optionA": "Pittu",
+        "optionB": "Rice and curry",
+        "optionC": "Milk Rice",
+        "optionD": "All are true",
+        "answer": "All are true"
+    }
+   
+]

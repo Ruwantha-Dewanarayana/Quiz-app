@@ -1,0 +1,89 @@
+.questions{
+    background-color: antiquewhite;
+    border-left:  5px solid blue;
+    width: 80%;
+    margin: 3rem auto 0 auto;
+    padding: 1rem 2rem;
+}
+.lifeline-container{
+    display: flex;
+    justify-content: space-between;
+}
+.life-line{
+    position: relative;
+    top: -2.5px;
+    color: green;
+    cursor: pointer;
+}
+.life-line :hover{
+    background: none;
+    color: rgb(7, 54, 7);
+    
+}
+h5{
+    font-size: 1.2 rem;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+    text-align: center;
+}
+.options-container{
+    display: inline-block;
+    width: 50%;
+}
+.option{
+    background-color: rgb(50, 117, 210);
+    border-radius: 30px;
+    color: aliceblue;
+    cursor: pointer;
+    margin: 1rem auto;
+    padding: 0.8rem;
+    transition: 0.3 linear all;
+    text-align: center;
+    width: 90%;
+}
+.option:hover{
+    background-color: rgb(13, 69, 118);
+}
+.button-container{
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 auto 0.5rem auto;
+    padding: 1rem;
+    width: 80%;
+}
+.button-container button{
+    border: none;
+    color: rgb(213, 228, 240);
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 2.5rem;
+    padding: 0.5rem 0.8rem; 
+}
+.button-container button:first-child{
+    background-color: rgb(240, 89, 8);
+    box-shadow: 2px;
+    transition: 0.2s linear all;
+}
+.button-container button:first-child:hover{
+    background-color: rgb(195, 73, 7);
+}
+.button-container button:nth-child(2){
+    background-color: rgb(44, 198, 6);
+    box-shadow: 2px;
+    transition: 0.2s linear all;
+}
+.button-container button:nth-child(2):hover{
+    background-color: rgb(34, 142, 8);
+}
+.button-container button:last-child{
+    background-color: rgb(240, 8, 8);
+    box-shadow: 2px;
+    transition: 0.2s linear all;
+}
+.button-container button:last-child:hover{
+    background-color: rgb(175, 3, 3);
+}
+h2{
+    text-align: center;
+    font-weight: lighter;
+}
